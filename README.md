@@ -1,5 +1,6 @@
 <h1 align="center">Hello World!! 👋, I'm Hasan Ajweh</h1>
 <h3 align="center">A passionate Backend developer from Palestine</h3>
+<img align="right" alt="chillin" width="400" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2MjU1MjksIm5iZiI6MTcyNDYyNTIyOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI1VDIyMzM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZGUzZDU4ZDQzODhjZmM5MmM3MDQwYjRmZDIzNzk2MzRkZTc2ZWIyYzFmOTU2NGRjOWYwMmM0NGZkYjFlNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h3Wmt7pjyPLm0QDVIojT0hduztd0Fo5JE87_U2Pddb4">
 
 - 🔭 I’m currently working on [RealEstate|.NET API](https://github.com/hasanajweh/RealEstateApi)
 
