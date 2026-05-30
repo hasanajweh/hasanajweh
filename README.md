@@ -7,7 +7,7 @@
 
 <!-- Interactive Live Status Console (NOC / DevOps Theme) -->
 ```bash
-ajweh@scholder-noc:~$ neofetch
+ajweh@hasan-noc:~$ neofetch
 👤 USER        Hasan Ajweh
 🚀 CURRENT     NOC & Infrastructure Engineer
 📍 LOCATION    Ramallah, Palestine (31.9029° N)
