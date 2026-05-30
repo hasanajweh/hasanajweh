@@ -7,18 +7,15 @@
 
 <!-- Interactive Live Status Console (NOC / DevOps Theme) -->
 ```bash
-┌────────────────────────────────────────────────────────┐
-│  ajweh@scholder-noc:~$ neofetch                        │
-│                                                        │
-│  👤 USER       : Hasan Ajweh                           │
-│  🚀 CURRENT    : NOC & Infrastructure Engineer         │
-│  📍 LOCATION   : Ramallah, Palestine (31.9029° N)      │
-│  🌐 PORTFOLIO  : https://hasanajweh.vercel.app/        │
-│  🟢 SYS-STATUS : Active & Deploying Platform Upgrades  │
-│  📊 UPTIME     : 99.999% (Obsessed with Reliability)   │
-│  ⚡ CORE STACK : Laravel, Docker, Linux, C#, Python    │
-│  🛡️ METRICS    : Grafana & Zabbix Observability Active │
-└────────────────────────────────────────────────────────┘
+ajweh@scholder-noc:~$ neofetch
+👤 USER        Hasan Ajweh
+🚀 CURRENT     NOC & Infrastructure Engineer
+📍 LOCATION    Ramallah, Palestine (31.9029° N)
+🌐 PORTFOLIO   https://hasanajweh.vercel.app/
+🟢 SYS-STATUS  Active & Ready to Deploy Upgrades
+📊 UPTIME      99.999% (DevOps Mindset)
+⚡ CORE STACK  Laravel, Docker, Linux, C#, Python
+🛡️ METRICS     Grafana & Zabbix Observability Active
 ```
 
 <br/>
@@ -82,12 +79,12 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/hasanajweh">
-          <img src="https://github-readme-stats.vercel.app/api?username=hasanajweh&show_icons=true&theme=tokyonight&bg_color=080c10&title_color=00FF99&icon_color=00FF99&text_color=94a3b8&border_color=1a2332&hide_border=false" alt="Hasan's GitHub Stats" width="410" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=hasanajweh&show_icons=true&theme=tokyonight&bg_color=080c10&title_color=00FF99&icon_color=00FF99&text_color=94a3b8&border_color=1a2332&hide_border=false" alt="Hasan's GitHub Stats" width="410" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/hasanajweh">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanajweh&layout=compact&theme=tokyonight&bg_color=080c10&title_color=00FF99&icon_color=00FF99&text_color=94a3b8&border_color=1a2332&hide_border=false" alt="Top Languages" width="370" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=hasanajweh&layout=compact&theme=tokyonight&bg_color=080c10&title_color=00FF99&icon_color=00FF99&text_color=94a3b8&border_color=1a2332&hide_border=false" alt="Top Languages" width="370" />
         </a>
       </td>
     </tr>
