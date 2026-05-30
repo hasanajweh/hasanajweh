@@ -7,15 +7,18 @@
 
 <!-- Interactive Live Status Console (NOC / DevOps Theme) -->
 ```bash
-ajweh@hasan-noc:~$ neofetch
-👤 USER        Hasan Ajweh
-🚀 CURRENT     NOC & Infrastructure Engineer
-📍 LOCATION    Ramallah, Palestine (31.9029° N)
-🌐 PORTFOLIO   https://hasanajweh.vercel.app/
-🟢 SYS-STATUS  Active & Ready to Deploy Upgrades
-📊 UPTIME      99.999% (DevOps Mindset)
-⚡ CORE STACK  Laravel, Docker, Linux, C#, Python
-🛡️ METRICS     Grafana & Zabbix Observability Active
+hasan@ajweh-noc:~$ neofetch
+         .---.        OS: Ubuntu Server 24.04 LTS (NOC Core Node-01)
+        /     \       Kernel: Linux 6.8.0-31-generic
+        \.@-@./       Uptime: 99.999% SLA (DevOps Status: ACTIVE)
+        /`\_/`\       Shell: bash 5.2.21
+       //  _  \\      Coordinates: Ramallah, Palestine (31.9029° N, 35.2062° E)
+      | \     / |     DevOps Stack: Laravel, Docker, Linux, C#, Python
+     (|  `---'  |)    Monitoring: Grafana & Zabbix Observability Active
+   /`\_`-.   .-'_/`   Portfolio: https://hasanajweh.vercel.app/
+  ((((`.  `-'  .`)))) System Status: Ready to orchestrate production upgrades
+   \t\  `----'  /t/
+    \t\        /t/
 ```
 
 <br/>
