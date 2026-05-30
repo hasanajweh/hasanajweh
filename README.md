@@ -3,10 +3,12 @@
 <!-- Terminal Style Dark Mode Hero Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&background=0D111700&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello+World!%22);%3E_I'm+Hasan+Ajweh;%3E_DevOps+%26+Infrastructure;%3E_Laravel+Full-Stack+Developer;%3E_Shipping+bulletproof+architectures;%3E_Keeping+domain+servers+online+24%2F7" alt="Typing SVG" />
 
-<br/><br/>
+</div>
 
-<!-- Interactive Live Status Console (DevOps Theme) -->
-<pre>
+<br/>
+
+<!-- Left-aligned terminal block to prevent Tux ASCII skewing -->
+```bash
 hasan@prod-1a2b:~$ devops loading
          .---.        OS: Ubuntu Server 24.04 LTS (Prod Node-1a2b)
         /     \       Kernel: Linux 6.8.0-31-generic
@@ -19,9 +21,11 @@ hasan@prod-1a2b:~$ devops loading
   ((((`.  `-'  .`)))) System Status: Ready to orchestrate production upgrades
    \t\  `----'  /t/
     \t\        /t/
-</pre>
+```
 
 <br/>
+
+<div align="center">
 
 <!-- Workspace & Social Connects -->
 <img alt="Hasan's Interactive Workspace" width="400" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2MjU1MjksIm5iZiI6MTcyNDYyNTIyOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI1VDIyMzM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZGUzZDU4ZDQzODhjZmM5MmM3MDQwYjRmZDIzNzk2MzRkZTc2ZWIyYzFmOTU2NGRjOWYwMmM0NGZkYjFlNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h3Wmt7pjyPLm0QDVIojT0hduztd0Fo5JE87_U2Pddb4" />
